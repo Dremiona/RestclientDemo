@@ -1,1 +1,1 @@
-RestClient demo application using jsonPlaceholder api 
+Spring's RestClient demo application using jsonPlaceholder api 
